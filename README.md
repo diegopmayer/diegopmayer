@@ -1,8 +1,7 @@
 -  Hi, I’m Diego Poletto Mayer - @diegopmayer
--  I’m interested in Data Science and Machine learning for business
+-  I’m interested in Data Science, Data Engineer and Machine learning for business
 -  I'm learning everything to get my master degree in artificial intelligence and data science
--  I’m currently working as Data Scientist in insurance company
--  I’m looking to collaborate on projects in technology or finances company
+-  I’m currently working as Data Engineer and Applied Machine Learning in insurance company
 -  You can contact me anytime diegopmayer@gmail.com
 
 <!---
